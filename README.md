@@ -4,8 +4,9 @@ A responsive React application demonstrating component architecture, state manag
 
 ## 🚀 Live Demo
 
-[View Live Application](https://your-deployment-url-here.vercel.app) *(Replace with your actual deployment URL)*
+Click the link below to view
 
+   View Live Application:  https://harmonious-truffle-f1724c.netlify.app/
 ## 📸 Screenshots
 
 ### Home Page
@@ -199,22 +200,3 @@ Run the development server and test the following:
 3. Commit changes: `git commit -am 'Add feature'`
 4. Push to branch: `git push origin feature-name`
 5. Submit a pull request
-
-## 📝 License
-
-This project is part of a learning assignment and is not licensed for commercial use.
-
-## 🙏 Acknowledgments
-
-- [React](https://react.dev/) - A JavaScript library for building user interfaces
-- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
-- [Vite](https://vitejs.dev/) - Next generation frontend tooling
-- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API
-
-## 📞 Support
-
-If you have any questions or issues, please open an issue in the GitHub repository.
-
----
-
-**Built with ❤️ for the PLP MERN Stack Development Program**
